@@ -16,5 +16,6 @@ public class BotInfoController {
         mp.put("tiger","www");
         mp.put("apple","hhh");
         return mp;
+        1
     }
 }
